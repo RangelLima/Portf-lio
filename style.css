@@ -24,3 +24,26 @@ h2 {
     color: blue;
     text-align: center;
 }
+
+.item h2 {
+    font-size: 30px;
+    color:gold;
+    text-align: center;
+}
+
+.itens li {
+    background-color:red;
+    margin: 10px;
+    height: 15px;
+    width: 200px;
+}
+
+.borda tr {
+    border-color:darkorange;
+    
+}
+
+.botao:hover {
+    background-color: chartreuse;
+}
+
